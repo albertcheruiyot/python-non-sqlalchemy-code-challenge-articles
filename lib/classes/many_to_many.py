@@ -114,7 +114,7 @@ class Magazine:
 
     def article_titles(self):
         pass
-
+mytest
     def contributing_authors(self):
         pass'''
 
